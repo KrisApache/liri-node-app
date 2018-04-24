@@ -1,0 +1,48 @@
+
+-----------------------------------------------------------
+Mon Apr 23 2018 22:41:19 GMT-0500 (Central Daylight Time)
+Command: tweets
+-----------------------------------------------------------
+tweet 1 : "tweet 23"
+tweet 2 : "tweet 22"
+tweet 3 : "tweet 21"
+tweet 4 : "tweet 20"
+tweet 5 : "tweet 19"
+tweet 6 : "tweet 18"
+tweet 7 : "tweet 17"
+tweet 8 : "tweet 16"
+tweet 9 : "tweet 15"
+tweet 10 : "tweet 14"
+tweet 11 : "tweet 13"
+tweet 12 : "tweet 12"
+tweet 13 : "tweet 11"
+tweet 14 : "tweet 10"
+tweet 15 : "tweet 9"
+tweet 16 : "tweet 8"
+tweet 17 : "tweet 7"
+tweet 18 : "tweet 6"
+tweet 19 : "tweet 5"
+tweet 20 : "tweet 4"
+===========================================================
+Mon Apr 23 2018 22:46:35 GMT-0500 (Central Daylight Time)
+Command: do-what-it-says 
+-----------------------------------------------------------
+Mon Apr 23 2018 22:46:35 GMT-0500 (Central Daylight Time)
+Command: spotify-this-song "I Want it That Way"
+-----------------------------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+-----------------------------------------------------------
+Mon Apr 23 2018 22:47:46 GMT-0500 (Central Daylight Time)
+Command: movie-this avengers
+-----------------------------------------------------------
+Title: The Avengers
+Released: 2012
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 92%
+Country: USA
+Language: English, Russian, Hindi
+Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
