@@ -12,12 +12,12 @@
 
 ## Following are the node packages used,
 
-# Twitter
+* Twitter
 
-# Node-Spotify-API
+* Node-Spotify-API
 
-# Request
+* Request
 
-# DotEnv
+* DotEnv
 
-# node-datetime
+* node-datetime
